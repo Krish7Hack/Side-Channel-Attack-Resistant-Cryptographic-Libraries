@@ -12,13 +12,6 @@ And to **evaluate their resistance** against common side-channel attacks using t
 
 ---
 
-## 🚀 How to Run (Google Colab / Local)
-
-### Clone this Repository
-
-git clone https://github.com/yourusername/SideChannelResistantCrypto.git
-cd SideChannelResistantCrypto
-
 ### Install Dependencies
 
 pip install -r requirements.txt
