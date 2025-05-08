@@ -28,18 +28,6 @@ pip install -r requirements.txt
 1. Upload the entire folder to Google Drive.
 2. Open `evaluation_report.ipynb` in Colab.
 3. Run all cells to simulate timing/power attacks and analyze defenses.
-
-### Run Locally
-
-# AES
-python AES/test_aes.py
-
-# RSA
-python RSA/test_rsa.py
-
-# ECC
-python ECC/test_ecc.py
-
 ---
 
 ## 🛡️ Side-Channel Attack Resistance Strategy
@@ -101,9 +89,3 @@ All crypto modules are tested using Python’s `unittest` framework to ensure:
 MIT License
 
 ---
-
-## ✨ Contributors
-
-- [Your Name] – Implementation, Evaluation, Documentation
-- [Your Collaborators]
-
